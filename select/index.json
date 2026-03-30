@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "誓いの花束を～With You～",
+  "base_artist": "すとぷり",
+  "createdAt": "2026-03-30T14:14:33.928065Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誓いの花束を～With You～",
+      "artist": "すとぷり",
+      "has_synced": false,
+      "path": "select/pl_01_誓いの花束を~With_You~_すとぷり.txt"
+    }
+  ]
+}
